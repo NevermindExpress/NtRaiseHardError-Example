@@ -1,1 +1,0 @@
-// empty, use NtRaiseHardError.c
